@@ -1,0 +1,32 @@
+.container{
+    
+    width: 100vw;
+    height: 850vh;
+    background-color: lightblue;
+    text-align: -webkit-center;
+}
+.forms{
+    padding-top: 2rem;
+}
+.converter{
+    height:7rem
+}
+#ans{
+    width: 15rem;
+    height: 3rem;
+   
+}
+.converter-pounds{
+background-color: green;
+width: 50%;
+}
+
+.converter-ounces{
+    background-color: magenta;
+    width: 50%;
+}
+
+.converter-grams{
+    background-color: rgb(87, 87, 216);
+    width: 50%;
+}
